@@ -54,10 +54,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="0" key="CommitChangelistDialog2" timestamp="1581973371858">
+    <state x="516" y="0" key="CommitChangelistDialog2" timestamp="1581973517605">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="516" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581973371858" />
+    <state x="516" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1581973517605" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1581971824769">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -66,6 +66,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="636" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581973342579" />
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581973521678">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1581973521678" />
     <state x="369" y="132" key="git4idea.merge.GitPullDialog" timestamp="1581967718952">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
