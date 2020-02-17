@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sem08" />
+        <module name="sem-group8" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sem-group8" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
